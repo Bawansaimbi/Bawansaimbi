@@ -1,13 +1,43 @@
 ## Hi there, I am Bawan Saimbi 👋
-😄 Pronouns: He/Him
-![Profile Banner]([[https://your-banner-image-url](https://github.com/account)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatsondisneyplus.com%2Fturning-red-profile-avatar-added-to-disney%2F&psig=AOvVaw1NrIsfEdn5QLn5yTq0ZAdp&ust=1721220953769000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjTl-_Nq4cDFQAAAAAdAAAAABAE))
 
-Welcome to my GitHub profile! I’m a Computer Engineering student at Thapar University, Patiala, with a passion for coding, technology, and creating sophisticated solutions. I'm dedicated to developing my skills and building a remarkable career in the tech industry.
+## 🚀 About Me
+- 🎓 **Education**: Computer Engineering at Thapar University, Patiala.
+- 🎂 **Age**: 21 years old.
+- 😄 **Pronouns**: He/Him
+- 🏠 **Location**: Patiala, India.
+- 🏞 **Hobbies**: Traveling, photography, and Coding.
+- 💼 **Career Aspirations**: To secure an internship and a high-paying job.
 
+## 💻 Technical Skills
+- **Languages**: Java, Python, JavaScript, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git
+- **Machine Learning**: TensorFlow, Scikit-Learn
 
+<!-- ## 📚 Projects
+- **[Travel Planning Website](https://github.com/yourusername/travel-planning-website)**: A comprehensive website to plan and organize travel itineraries.
+- **[Movie Box Office Revenue Prediction](https://github.com/yourusername/movie-box-office-revenue-prediction)**: Predicting movie box office revenue using machine learning algorithms.
+- **[Movie Recommendation System](https://github.com/yourusername/movie-recommendation-system)**: An AI-based system to recommend movies based on user preferences.
+- **[Personal Portfolio Website](https://github.com/yourusername/personal-portfolio)**: Showcasing my work and achievements.
+-->
+## 📈 Current Focus
+- **Learning**: Deepening my knowledge in AI and machine learning.
+- **Development**: Building sophisticated and scalable web applications.
+
+<!--## 📸 Photography
+I love capturing aesthetic photos during my travels. You can check out my photography on [Instagram](https://instagram.com/yourusername) and [YouTube](https://youtube.com/yourusername).-->
+
+## 📫 Connect with Me
+- **LinkedIn**: (https://www.linkedin.com/in/bawan-deep-singh/)
+- **Email**: bawansaimbi@gmail.com
+
+## 🌟 Fun Facts
+- 🏃 I work out at home, focusing on core exercises and skipping.
+- 🎬 Favorite Movies: *The Gentlemen*, *The Wolf of Wall Street*, *The Aviator*, *Oppenheimer*.
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just say hi! 😊
 <!--
-**Bawansaimbi/Bawansaimbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
