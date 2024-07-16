@@ -1,6 +1,6 @@
 ## Hi there, I am Bawan Saimbi 👋
 😄 Pronouns: He/Him
-![Profile Banner]([https://your-banner-image-url](https://github.com/account))
+![Profile Banner]([[https://your-banner-image-url](https://github.com/account)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatsondisneyplus.com%2Fturning-red-profile-avatar-added-to-disney%2F&psig=AOvVaw1NrIsfEdn5QLn5yTq0ZAdp&ust=1721220953769000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjTl-_Nq4cDFQAAAAAdAAAAABAE))
 
 Welcome to my GitHub profile! I’m a Computer Engineering student at Thapar University, Patiala, with a passion for coding, technology, and creating sophisticated solutions. I'm dedicated to developing my skills and building a remarkable career in the tech industry.
 
