@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I am Bawan Saimbi 👋
+😄 Pronouns: He/Him
+![Profile Banner]([https://your-banner-image-url](https://github.com/account))
+
+Welcome to my GitHub profile! I’m a Computer Engineering student at Thapar University, Patiala, with a passion for coding, technology, and creating sophisticated solutions. I'm dedicated to developing my skills and building a remarkable career in the tech industry.
+
 
 <!--
 **Bawansaimbi/Bawansaimbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
