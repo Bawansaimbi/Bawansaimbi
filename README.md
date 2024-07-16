@@ -9,7 +9,7 @@
 - 💼 **Career Aspirations**: To secure an internship and a high-paying job.
 
 ## 💻 Technical Skills
-- **Languages**: Java, Python, JavaScript, C++
+- **Languages**: c++, Python, JavaScript
 - **Web Development**: HTML, CSS, React, Node.js
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git
